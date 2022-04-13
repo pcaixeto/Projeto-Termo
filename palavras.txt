@@ -1,0 +1,15 @@
+arara
+bagre
+cutia
+lesma
+mamba
+ganso
+dingo
+cupim
+corvo
+cisne
+cabra
+peixe
+porco
+touro
+urubu
